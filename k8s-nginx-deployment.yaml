@@ -1,3 +1,6 @@
+# Manifest Created by Bagas Maulana
+# Reference: Aji Diyantoro Youtube
+
 apiVersion: apps/v1
 kind: Deployment
 metadata:
