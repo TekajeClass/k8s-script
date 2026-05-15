@@ -16,7 +16,7 @@ Repositori ini berisi manifest Kubernetes untuk menjalankan aplikasi Nginx seder
 3. Pilih salah satu service (ClusterIP atau NodePort): `kubectl apply -f k8s-Create-svc-clusterIP.yaml` atau `kubectl apply -f k8s-create-svc-nodePort.yaml`
 4. Untuk akses eksternal via ingress, terapkan: `kubectl apply -f k8s-nginx-ingress.yaml` (pastikan ingress controller sudah terinstall)
 
-# Modul Belajar
+## Modul Belajar
 https://fopensource.univbanisaleh.my.id
 
 ## Referensi
